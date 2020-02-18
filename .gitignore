@@ -1,0 +1,26 @@
+*.o
+*.d
+*.cmd
+*.log
+*.pyc
+*.swp
+*.swo
+*~
+build
+build-*
+build_*
+cscope.*
+.dir
+
+/*.patch
+
+tags
+.project
+.cproject
+.xxproject
+.envrc
+.vscode
+
+# mkdocs
+mkdocs-material/*
+site
