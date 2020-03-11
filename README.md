@@ -77,6 +77,8 @@ Pitaya-Link is available on the following channels (click to go directly to the 
 
 [![Tindie](docs/assets/images/tindie-logo.png)](https://www.tindie.com/products/zelin/pitaya-link-cmsis-dap-debug-probe/)
 
+[![Taobao](docs/assets/images/taobao-logo.png)](https://item.taobao.com/item.htm?spm=a230r.1.14.1.6b287f11b0H2Xn&id=612791297948&ns=1&abbucket=14#detail)
+
 ## Contributing
 
 We would love for you to contribute to this project and help make it even better than it is today! See our [Contributing Guidelines](https://wiki.makerdiary.com/pitaya-link/CONTRIBUTING) for more information.

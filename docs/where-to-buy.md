@@ -8,6 +8,8 @@ Pitaya-Link is available on the following channels (click to go directly to the 
 
 [![Tindie](assets/images/tindie-logo.png)](https://www.tindie.com/products/zelin/pitaya-link-cmsis-dap-debug-probe/)
 
+[![Taobao](assets/images/taobao-logo.png)](https://item.taobao.com/item.htm?spm=a230r.1.14.1.6b287f11b0H2Xn&id=612791297948&ns=1&abbucket=14#detail)
+
 ## Bulk & Customization
 
 We are ready to customize our electronics and firmware to better meet your solution's needs. Many of our platforms are prepared for customization.
